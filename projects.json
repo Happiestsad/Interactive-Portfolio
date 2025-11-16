@@ -1,0 +1,20 @@
+[
+  {
+    "id": "Cab-Booking-System",
+    "title": "Cab Booking System",
+    "description": "The Python Cab Booking system manages bookings and fare calculation efficiently with simple code.",
+    "tags": ["Python","tkinter  ","UX"],
+    "screenshot": "assets/screenshot1.jpg",
+    "live": "#",
+    "repo": "https://github.com/Happiestsad/Cab-Booking.git"
+  },
+  {
+    "id": "poster-design",
+    "title": "Pet Adoption Portal",
+    "description": "A simple web portal built with HTML, CSS, and JavaScript for browsing and adopting pets online.",
+    "tags": [ "HTML","CSS","JavaScript"],
+    "screenshot": "assets/screenshot2.jpg",
+    "live": "#",
+    "repo": "https://github.com/Happiestsad/CodeClause_Pet_Adoption_Portal.git"
+  }
+]
