@@ -1,0 +1,20 @@
+[
+  {
+    "id": "medicine-alter",
+    "title": "Medicine Alternative Recommender (Demo)",
+    "description": "A frontend demo of a medicine-similarity recommender. Enter a medicine name to get safe alternatives. (UI only — model behind is offline).",
+    "tags": ["Flask", "ML", "UX"],
+    "screenshot": "assets/screenshot1.jpg",
+    "live": "#",
+    "repo": "https://github.com/YOURUSERNAME/medicine-recommender-demo"
+  },
+  {
+    "id": "poster-design",
+    "title": "Event Posters & Flyers",
+    "description": "Collection of eye-catching posters and banners made in Illustrator and Photoshop.",
+    "tags": ["Graphic Design", "Photoshop", "Illustrator"],
+    "screenshot": "assets/screenshot2.jpg",
+    "live": "#",
+    "repo": "https://github.com/YOURUSERNAME/poster-showcase"
+  }
+]
