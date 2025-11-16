@@ -1,4 +1,5 @@
-# 📁 Portfolio — Your Name
+# 📁 Portfolio — Your Name  
+🔗 **Live Demo:** https://happiestsad.github.io/Interactive-Portfolio/
 
 A lightweight, static portfolio and projects gallery designed to be easy to edit and deploy to GitHub Pages. 🚀
 
@@ -18,7 +19,7 @@ A lightweight, static portfolio and projects gallery designed to be easy to edit
 
 ### 🚀 Deploy to GitHub Pages
 
-- Go to repository -> Settings -> Pages -> Branch: `main` -> folder: `/(root)` -> Save.  
+- Go to repository → Settings → Pages → Branch: `main` → folder: `/(root)` → Save.  
 - Or use the `gh-pages` branch approach (not required for this simple static site).  
 
 ## 📜 License
