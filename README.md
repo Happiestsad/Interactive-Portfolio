@@ -1,4 +1,4 @@
-# 📁 Portfolio — Your Name  
+# 📁 Interactive-Portfolio  
 🔗 **Live Demo:** https://happiestsad.github.io/Interactive-Portfolio/
 
 A lightweight, static portfolio and projects gallery designed to be easy to edit and deploy to GitHub Pages. 🚀
